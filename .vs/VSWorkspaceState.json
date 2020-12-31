@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\models",
+    "\\public",
+    "\\public\\css",
+    "\\public\\fonts",
+    "\\public\\images",
+    "\\public\\js",
+    "\\repository",
+    "\\routes"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}

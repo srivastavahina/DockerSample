@@ -6,6 +6,6 @@ WORKDIR /usr/src/app
 RUN npm install
 COPY package.json .
 EXPOSE 8080
-CMD [ "npm", "server2" ]
+CMD [ "npm", "server2.js" ]
 
 COPY . .

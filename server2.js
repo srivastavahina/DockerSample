@@ -21,6 +21,6 @@ app.use(function(req, res, next){
   res.status(404).end();  
 });
 
-var port = (process.env.PORT || 5555);
+var port = (process.env.PORT || 8080);
 server.listen(port);
 console.log('listening on: ' + port);
